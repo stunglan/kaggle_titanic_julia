@@ -1,2 +1,4 @@
 # kaggle_titanic_julia
-Experiment doing Kaggle Titanic challenge in Julia
+Experiment doing Kaggle [Titanic challenge](https://www.kaggle.com/c/titanic) in Julia
+
+
